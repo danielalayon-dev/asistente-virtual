@@ -14,8 +14,8 @@
 <h2>Comandos disponibles</h2>
 <ul>
 	<li>Alexa reproduce 'nombre de video o artista'(busca videos en youtube y reproduce el primero que encuentra')</li>
-	<li>Alexa que hora es</li>
-	<li>Alexa quien es 'nombre de alguien' busca informacion sobre una persona en wikipedia</li>
-	<li>Alexa cuentame un chiste
+	<li>Alexa ¿Qué hora es?</li>
+	<li>Alexa ¿Quien es 'nombre de alguien'? busca informacion sobre una persona en wikipedia</li>
+	<li>Alexa cuéntame un chiste
 </li>
 </ul>
